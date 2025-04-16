@@ -8,7 +8,7 @@ This section contains a general overview of topics that you will learn in this l
 
 - Learn the structure of a class component and how they are written.
 - How to use props and state in class components.
-- Highlight the uses of `this` in class components.
+- Highlight the use of `this` in class components.
 
 ### Historical React component patterns
 
